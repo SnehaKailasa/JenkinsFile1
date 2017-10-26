@@ -1,2 +1,2 @@
-touch aa
-touch hh
+sudo touch aa
+sudo touch hh
